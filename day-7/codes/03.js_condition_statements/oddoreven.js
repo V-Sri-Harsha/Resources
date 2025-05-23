@@ -1,4 +1,4 @@
-let n = 24
+let n = 23
 let rem = n%2
 let result = ''
 if(rem == 0){
